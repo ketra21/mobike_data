@@ -1,4 +1,4 @@
-
+## 优达学城DAND（进阶）P3-Tableau数据可视化
 **初始版本**[链接](https://public.tableau.com/profile/evan5913#!/vizhome/mobike_shanghai_15559070799380/1 )   
 **最终版本**[链接](https://public.tableau.com/profile/evan5913#!/vizhome/mobike_shanghai_final/sheet14?publish=yes)
 
@@ -18,12 +18,12 @@
 
 ### 反馈
 朋友甲：  
-1. 周末/非周末骑行数量并非1/3，而是8月的周末/非周末天数为1/3，因而饼图混淆概念；
-2. 尽展示了一个仪表盘，而非一个故事集；  
+- 周末/非周末骑行数量并非1/3，而是8月的周末/非周末天数为1/3，因而饼图混淆概念；
+- 尽展示了一个仪表盘，而非一个故事集；  
 
 朋友乙：  
-1. 可以在骑行数量中对工作日/周末进行颜色标注，从而更多唯独展现；
+- 可以在骑行数量中对工作日/周末进行颜色标注，从而更多唯独展现；
 
 
 ### 资源
-参考资源：https://public.tableau.com/profile/ting.wang#!/vizhome/MobikeProject/MobikeStory4_0
+- 参考资源：https://public.tableau.com/profile/ting.wang#!/vizhome/MobikeProject/MobikeStory4_0
