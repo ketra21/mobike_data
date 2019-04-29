@@ -1,4 +1,4 @@
-## 优达学城DAND（进阶）P3-Tableau数据可视化
+
 **初始版本**[链接](https://public.tableau.com/profile/evan5913#!/vizhome/mobike_shanghai_15559070799380/1 )   
 **最终版本**[链接](https://public.tableau.com/profile/evan5913#!/vizhome/mobike_sh_final/sheet0?publish=yes)
 
@@ -30,7 +30,6 @@
 
 
 ### 反馈
-<<<<<<< HEAD
 **第一次提交**：  
 - 他人反馈：  
  1. 周末/非周末骑行数量并非1比3；  
@@ -77,15 +76,7 @@
     同时，针对反馈的记录，一方面，你需要尽量具体地指出他人的反馈意见（最好是针对特定的可视化或文字说明）；另一方面，你必须完整说明针对他人的反馈，你对可视化做了哪些改进，如果未根据反馈修改，你需要说明理由。请按照此原则持续更新反馈部分。这里提供一个反馈部分的示例，请按照示例更新此部分：
 
  - 修改：按照反馈要求，复制了第一次的反馈意见和修改内容。
-=======
-朋友甲：  
-- 周末/非周末骑行数量并非1/3，而是8月的周末/非周末天数为1/3，因而饼图混淆概念；
-- 尽展示了一个仪表盘，而非一个故事集；  
-
-朋友乙：  
-- 可以在骑行数量中对工作日/周末进行颜色标注，从而更多唯独展现；
->>>>>>> cd078070df9781a17bb286d8b627717a8e15bcb3
 
 
 ### 资源
-- 参考资源：https://public.tableau.com/profile/ting.wang#!/vizhome/MobikeProject/MobikeStory4_0
+参考资源：https://public.tableau.com/profile/ting.wang#!/vizhome/MobikeProject/MobikeStory4_0
